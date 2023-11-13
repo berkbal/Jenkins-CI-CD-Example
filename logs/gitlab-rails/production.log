@@ -31,3 +31,8 @@ Delivered mail 655271c8acdf5_3466ddf871478@localhost.mail (6.0ms)
 Delivered mail 655271f321d81_3466e5dc716da@localhost.mail (8.7ms)
   Rendered layout layouts/mailer/devise.html.haml (Duration: 3.1ms | Allocations: 888)
 Delivered mail 655271feb56a5_3466e370718ab@localhost.mail (5.3ms)
+Raven 3.1.2 configured not to capture errors: DSN not set
+Raven 3.1.2 configured not to capture errors: DSN not set
+Raven 3.1.2 configured not to capture errors: DSN not set
+  Rendered layout layouts/mailer/devise.html.haml (Duration: 119.4ms | Allocations: 92273)
+Delivered mail 6552786c714f3_1e76dd6c-318@localhost.mail (4.9ms)

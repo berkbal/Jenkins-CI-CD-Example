@@ -56,3 +56,28 @@
 127.0.0.1 - - [13/Nov/2023:19:00:43 +0000] "GET /help HTTP/1.1" 200 36850 "" "curl/8.4.0-DEV" -
 127.0.0.1 - - [13/Nov/2023:19:01:43 +0000] "GET /help HTTP/1.1" 200 36850 "" "curl/8.4.0-DEV" -
 127.0.0.1 - - [13/Nov/2023:19:02:44 +0000] "GET /help HTTP/1.1" 200 36850 "" "curl/8.4.0-DEV" -
+127.0.0.1 - - [13/Nov/2023:19:18:21 +0000] "GET /help HTTP/1.1" 502 3027 "" "curl/8.4.0-DEV" -
+172.24.0.1 - - [13/Nov/2023:19:19:03 +0000] "GET / HTTP/1.1" 502 3027 "" "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" -
+172.24.0.1 - - [13/Nov/2023:19:19:04 +0000] "GET / HTTP/1.1" 502 3027 "http://localhost:8080/" "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" -
+172.24.0.1 - - [13/Nov/2023:19:19:04 +0000] "GET / HTTP/1.1" 502 3027 "http://localhost:8080/" "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" -
+172.24.0.1 - - [13/Nov/2023:19:19:05 +0000] "GET / HTTP/1.1" 502 3027 "http://localhost:8080/" "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" -
+127.0.0.1 - - [13/Nov/2023:19:19:21 +0000] "GET /help HTTP/1.1" 502 3027 "" "curl/8.4.0-DEV" -
+172.24.0.1 - - [13/Nov/2023:19:19:38 +0000] "GET / HTTP/1.1" 502 3027 "http://localhost:8080/" "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" -
+172.24.0.1 - - [13/Nov/2023:19:19:38 +0000] "GET / HTTP/1.1" 502 3027 "http://localhost:8080/" "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" -
+172.24.0.1 - - [13/Nov/2023:19:19:38 +0000] "GET / HTTP/1.1" 502 3027 "http://localhost:8080/" "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" -
+172.24.0.1 - - [13/Nov/2023:19:19:38 +0000] "GET / HTTP/1.1" 502 3027 "http://localhost:8080/" "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" -
+172.24.0.1 - - [13/Nov/2023:19:19:39 +0000] "GET / HTTP/1.1" 502 3027 "http://localhost:8080/" "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" -
+127.0.0.1 - - [13/Nov/2023:19:20:21 +0000] "GET /help HTTP/1.1" 502 3027 "" "curl/8.4.0-DEV" -
+172.24.0.1 - - [13/Nov/2023:19:21:01 +0000] "GET / HTTP/1.1" 502 3027 "http://localhost:8080/" "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" -
+127.0.0.1 - - [13/Nov/2023:19:21:21 +0000] "GET /help HTTP/1.1" 502 3027 "" "curl/8.4.0-DEV" -
+172.24.0.1 - - [13/Nov/2023:19:21:34 +0000] "GET / HTTP/1.1" 502 3027 "http://localhost:8080/" "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" -
+127.0.0.1 - - [13/Nov/2023:19:22:21 +0000] "GET /help HTTP/1.1" 502 3027 "" "curl/8.4.0-DEV" -
+127.0.0.1 - - [13/Nov/2023:19:23:21 +0000] "GET /help HTTP/1.1" 502 3027 "" "curl/8.4.0-DEV" -
+127.0.0.1 - - [13/Nov/2023:19:24:21 +0000] "GET /help HTTP/1.1" 502 3027 "" "curl/8.4.0-DEV" -
+172.24.0.1 - - [13/Nov/2023:19:26:02 +0000] "GET / HTTP/1.1" 502 3027 "" "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" -
+172.24.0.1 - - [13/Nov/2023:19:26:04 +0000] "GET / HTTP/1.1" 502 3027 "" "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" -
+172.24.0.1 - - [13/Nov/2023:19:26:04 +0000] "GET /favicon.ico HTTP/1.1" 502 3027 "http://localhost:8080/" "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" -
+127.0.0.1 - - [13/Nov/2023:19:26:06 +0000] "GET /help HTTP/1.1" 502 3027 "" "curl/8.4.0-DEV" -
+127.0.0.1 - - [13/Nov/2023:19:27:07 +0000] "GET /help HTTP/1.1" 200 36850 "" "curl/8.4.0-DEV" -
+172.24.0.1 - - [13/Nov/2023:19:27:51 +0000] "GET / HTTP/1.1" 200 8328 "" "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" 3.24
+172.24.0.1 - - [13/Nov/2023:19:27:51 +0000] "GET /assets/highlight/themes/white-5d96a14c91e48ab1e99718ce1647378867a0495323d816f3a9704562a4e2ce7c.css HTTP/1.1" 200 1964 "http://localhost:8080/" "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" -

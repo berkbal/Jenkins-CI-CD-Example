@@ -1,0 +1,16 @@
+2023-11-13_19:17:28.04934 [2023-11-13 19:17:28] INFO  WEBrick 1.8.1
+2023-11-13_19:17:28.04951 [2023-11-13 19:17:28] INFO  ruby 3.0.6 (2023-03-30) [x86_64-linux]
+2023-11-13_19:17:28.04989 == Sinatra (v2.2.3) has taken the stage on 9168 for development with backup from WEBrick
+2023-11-13_19:17:28.05010 [2023-11-13 19:17:28] INFO  WEBrick::HTTPServer#start: pid=1432 port=9168
+2023-11-13_19:17:50.09007 == Sinatra has ended his set (crowd applauds)
+2023-11-13_19:17:50.09039 [2023-11-13 19:17:50] INFO  going to shutdown ...
+2023-11-13_19:17:50.09041 [2023-11-13 19:17:50] INFO  WEBrick::HTTPServer#start done.
+2023-11-13_19:17:50.63678 [2023-11-13 19:17:50] INFO  WEBrick 1.8.1
+2023-11-13_19:17:50.63680 [2023-11-13 19:17:50] INFO  ruby 3.0.6 (2023-03-30) [x86_64-linux]
+2023-11-13_19:17:50.63729 == Sinatra (v2.2.3) has taken the stage on 9168 for development with backup from WEBrick
+2023-11-13_19:17:50.63747 [2023-11-13 19:17:50] INFO  WEBrick::HTTPServer#start: pid=2340 port=9168
+2023-11-13_19:24:35.04586 172.24.0.2 - - [13/Nov/2023:19:24:34 UTC] "GET /sidekiq HTTP/1.1" 200 119456
+2023-11-13_19:24:35.04590 - -> /sidekiq
+2023-11-13_19:24:36.29178 == Sinatra has ended his set (crowd applauds)
+2023-11-13_19:24:36.29226 [2023-11-13 19:24:36] INFO  going to shutdown ...
+2023-11-13_19:24:36.54803 [2023-11-13 19:24:36] INFO  WEBrick::HTTPServer#start done.
