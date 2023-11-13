@@ -1,0 +1,45 @@
+Running db:schema:load rake task
+psql:/opt/gitlab/embedded/service/gitlab-rails/db/structure.sql:9: NOTICE:  extension "btree_gist" already exists, skipping
+psql:/opt/gitlab/embedded/service/gitlab-rails/db/structure.sql:11: NOTICE:  extension "pg_trgm" already exists, skipping
+INFO:  analyzing "public.p_ci_runner_machine_builds" inheritance tree
+INFO:  analyzing "gitlab_partitions_dynamic.ci_runner_machine_builds_100"
+INFO:  "ci_runner_machine_builds_100": scanned 0 of 0 pages, containing 0 live rows and 0 dead rows; 0 rows in sample, 0 estimated total rows
+INFO:  analyzing "public.p_ci_job_annotations" inheritance tree
+INFO:  analyzing "gitlab_partitions_dynamic.ci_job_annotations_100"
+INFO:  "ci_job_annotations_100": scanned 0 of 0 pages, containing 0 live rows and 0 dead rows; 0 rows in sample, 0 estimated total rows
+INFO:  analyzing "public.p_ci_builds_metadata" inheritance tree
+INFO:  analyzing "public.ci_builds_metadata"
+INFO:  "ci_builds_metadata": scanned 0 of 0 pages, containing 0 live rows and 0 dead rows; 0 rows in sample, 0 estimated total rows
+
+== Seed from /opt/gitlab/embedded/service/gitlab-rails/db/fixtures/production/001_application_settings.rb
+Creating the default ApplicationSetting record.
+
+== Seed from /opt/gitlab/embedded/service/gitlab-rails/db/fixtures/production/002_admin.rb
+Administrator account created:
+
+login:    root
+password: ******
+
+
+== Seed from /opt/gitlab/embedded/service/gitlab-rails/db/fixtures/production/003_create_base_work_item_types.rb
+
+OK
+
+== Seed from /opt/gitlab/embedded/service/gitlab-rails/db/fixtures/production/004_add_security_training_providers.rb
+
+OK
+
+== Seed from /opt/gitlab/embedded/service/gitlab-rails/db/fixtures/production/010_settings.rb
+Saved CI JWT signing key
+
+== Seed from /opt/gitlab/embedded/service/gitlab-rails/db/fixtures/production/020_create_work_item_hierarchy_restrictions.rb
+
+OK
+
+== Seed from /opt/gitlab/embedded/service/gitlab-rails/db/fixtures/production/030_default_organization.rb
+
+OK
+
+== Seed from /opt/gitlab/embedded/service/gitlab-rails/db/fixtures/production/040_create_work_item_related_link_restrictions.rb
+
+OK
