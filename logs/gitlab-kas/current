@@ -1,6 +1,0 @@
-2023-11-13_19:25:23.30395 {"level":"info","time":"2023-11-13T19:25:23.303Z","msg":"Using own private API URL","url":"grpc://localhost:8155"}
-2023-11-13_19:25:23.30763 {"level":"info","time":"2023-11-13T19:25:23.307Z","msg":"Private API endpoint is up","net_network":"tcp","net_address":"172.24.0.2:8155"}
-2023-11-13_19:25:23.30766 {"level":"info","time":"2023-11-13T19:25:23.307Z","msg":"Observability endpoint is up","mod_name":"observability","net_network":"tcp","net_address":"172.24.0.2:8151"}
-2023-11-13_19:25:23.30766 {"level":"info","time":"2023-11-13T19:25:23.307Z","msg":"Kubernetes API endpoint is up","mod_name":"kubernetes_api","net_network":"tcp","net_address":"172.24.0.2:8154"}
-2023-11-13_19:25:23.30779 {"level":"info","time":"2023-11-13T19:25:23.306Z","msg":"API endpoint is up","net_network":"tcp","net_address":"172.24.0.2:8153"}
-2023-11-13_19:25:23.30780 {"level":"info","time":"2023-11-13T19:25:23.307Z","msg":"Agentk API endpoint is up","net_network":"tcp","net_address":"172.24.0.2:8150","is_websocket":true}

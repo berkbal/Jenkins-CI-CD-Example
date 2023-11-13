@@ -1,1 +1,0 @@
-2023-11-13_19:24:34.15405 2023/11/13 19:24:34 [error] 1262#0: *28 access forbidden by rule, client: 172.24.0.2, server: localhost, request: "GET /metrics HTTP/1.1", host: "localhost:8060"
